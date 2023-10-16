@@ -1,0 +1,1 @@
+- Python code to calculate RS, optimized to run on VPS
